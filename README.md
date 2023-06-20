@@ -6,7 +6,7 @@ The program was written using C++ and uses the std::filesystem library for most 
 How to use?
 1. Run the 'make' command to build the executable.
 2. Run ./myls to run the program.
-3. To make it a universal terminal command - sudo mv myls /usr/local/bin/
+3. To make it a universal terminal command - `sudo mv myls /usr/local/bin/`
 Now you can use the command 'myls' from any directory. Just type in 'myls'.
 
 What's missing?
