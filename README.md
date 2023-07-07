@@ -1,6 +1,6 @@
-# A Simple File Explorer written with C++
+# Recreation of the 'ls' unix command written in C++
 
-This is a simple *file explorer* that lists the files and directories in the PWD (present working directory). It also lists the size of each individual file.
+This is a simple mimic of the *'ls'* unix command that lists the files and directories in the PWD (present working directory). It also lists the size of each individual file.
 The program was written using C++ and uses the `std::filesystem` library for most of its functionality.
 
 How to use?
